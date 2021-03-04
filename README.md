@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello and welcome to my github profile! 
+<img  alt="GIF" src="https://thumbs.gfycat.com/RightDecisiveDugong-small.gif" />
+Put you feet up, grab a bit of wine and get cozy but the fireplace!
 
-<!--
-**danielbpc2/danielbpc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a ex-lawyer who always had interest in technology and gaming, trying to chase these passions I went through the Le Wagon bootcamp, where they teach full stack web development, there I've acquired the knowledge to keep improving myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Got into UNIFG university, with the focus to acquire a bachelor of computer science with to further develop my knowledge! 🚀🚀
+
+Right now I'm focusing in acquiring experience and learn new things!
+
+- 👔 I’m currently working on Accenture as a Node/React developer! 
+- 💻 I’m looking to collaborate with Typescript/React
+- 📫 How to reach me: danielbpc3@hotmail.com
+
+#####  📜 My skills and some of the technologies I have worked with:
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB) 
+![React Native](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=React&logoColor=61DAFB)
