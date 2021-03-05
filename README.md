@@ -1,4 +1,4 @@
-### Hello and welcome to my github profile! 
+### 🔥 Hello and welcome to my github profile! 🍷
 <img  alt="GIF" src="https://thumbs.gfycat.com/RightDecisiveDugong-small.gif" />
 Put you feet up, grab a bit of wine and get cozy but the fireplace!
 
