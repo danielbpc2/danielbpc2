@@ -10,8 +10,8 @@ Got into UNIFG university, with the focus to acquire a bachelor of computer scie
 Right now I'm focusing in acquiring experience and learn new things!
 
 - 👔 I’m currently working on Accenture as a Node/React developer! 
-- 💻 I’m looking to collaborate with Typescript/React
-- 📫 How to reach me: danielbpc3@hotmail.com
+- 💻 I’m always looking for new things to learn, right now I'm getting deeper into node/react/reactNative 🚀
+- 📫 You can reach me at my [Linkedin](https://www.linkedin.com/in/danielbpc/)
 
 #####  📜 My skills and some of the technologies I have worked with:
 
