@@ -1,6 +1,6 @@
 ### 🔥 Hello and welcome to my github profile! 🍷
 <img  alt="GIF" src="https://thumbs.gfycat.com/RightDecisiveDugong-small.gif" />
-Put you feet up, grab a bit of wine and get cozy but the fireplace!
+Put you feet up, grab a bit of wine and get cozy by the fireplace!
 
 
 I'm a ex-lawyer who always had interest in technology and gaming, trying to chase these passions I went through the Le Wagon bootcamp, where they teach full stack web development, there I've acquired the knowledge to keep improving myself.
