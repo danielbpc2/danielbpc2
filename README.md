@@ -5,7 +5,7 @@ Put you feet up, grab a bit of wine and get cozy by the fireplace!
 
 I'm a ex-lawyer who always had interest in technology and gaming, trying to chase these passions I went through the Le Wagon bootcamp, where they teach full stack web development, there I've acquired the knowledge to keep improving myself.
 
-Got into UNIFG university, with the focus to acquire a bachelor of computer science with to further develop my knowledge! 🚀🚀
+I managed to get a bachelor in computer science! 🚀🚀
 
 Right now I'm focusing in acquiring experience and learn new things!
 
