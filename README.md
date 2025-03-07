@@ -5,12 +5,12 @@ Put you feet up, grab a bit of wine and get cozy by the fireplace!
 
 I'm a ex-lawyer who always had interest in technology and gaming, trying to chase these passions I went through the Le Wagon bootcamp, where they teach full stack web development, there I've acquired the knowledge to keep improving myself.
 
-I managed to get a bachelor in computer science! 🚀🚀
+I got a bachelor in computer science! 🚀🚀
 
 Right now I'm focusing in acquiring experience and learn new things!
 
-- 👔 I’m currently working on Accenture as a Node/React developer! 
-- 💻 I’m always looking for new things to learn, right now I'm getting deeper into node/react/reactNative 🚀
+- 👔 I’m currently working at Aramis as a Senior Node/React/Next developer! 
+- 💻 I’m always looking for new things to learn, right now I'm getting deeper into Next.js 🚀
 - 📫 You can reach me at my [Linkedin](https://www.linkedin.com/in/danielbpc/)
 
 #####  📜 My skills and some of the technologies I have worked with:
